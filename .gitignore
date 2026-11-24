@@ -1,0 +1,8 @@
+.trae/
+.vscode/
+upload_server.log
+upload_server.pid
+upload_dir.json
+.tmp/
+__pycache__/
+upload_server.pyc
